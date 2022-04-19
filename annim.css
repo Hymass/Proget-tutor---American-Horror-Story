@@ -1,0 +1,22 @@
+@keyframes bug {
+    0% {
+        transform: translateY(10rem);
+        height: 1rem;
+    }
+    25%{
+        transform: translateY(-5rem);
+        height: 10rem;
+    }
+    50%{
+        transform: translateY(2rem);
+        height: 5rem;
+    }
+    75%{
+        transform: translateY(-10rem);
+        height: 11rem;
+    }
+    100%{
+        transform: translateY(0rem);
+        height: 4rem;
+    }
+  }
