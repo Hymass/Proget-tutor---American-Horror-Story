@@ -1,12 +1,3 @@
-<?php
-session_start();
-
-$_SESSION['origine'] = 'AHS';
-
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
