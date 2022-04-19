@@ -1,7 +1,7 @@
 # Proget tutoré - American Horror Story
-Description : Résultat final de notre projet tutoré portant sur l'API de imdb.com<br>
-Dernière version : 13/01/2022
-Personnes impliquées : 
+<b>Description</b> : Résultat final de notre projet tutoré portant sur l'API de imdb.com<br>
+<b>Dernière version</b> : 13/01/2022<br>
+<b>Personnes impliquées</b> : 
   - Florian Montastier
   - Loïs Chevris
   - Marie Billonnet
